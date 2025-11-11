@@ -1,11 +1,10 @@
-```markdown
-# 📍 LocationServicesKotlin
+# LocationServicesKotlin
 
 A simple Android app built with **Kotlin** and **Jetpack Compose** to demonstrate how to access and display user location using **Google’s Fused Location Provider**.
 
 ---
 
-## 🚀 Overview
+## Overview
 **LocationServicesKotlin** is part of a Mobile Application Development (PAPB) practicum project.  
 This app retrieves the user's current location (latitude & longitude) and converts it into a readable address using **Geocoder**.
 
@@ -16,7 +15,7 @@ The app also demonstrates behavior in various scenarios such as:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Kotlin**
 - **Jetpack Compose**
 - **Android ViewModel**
@@ -26,7 +25,7 @@ The app also demonstrates behavior in various scenarios such as:
 
 ---
 
-## 📱 Features
+## Features
 - Request location permission at runtime  
 - Retrieve current latitude and longitude  
 - Display corresponding address using Geocoder  
@@ -35,10 +34,10 @@ The app also demonstrates behavior in various scenarios such as:
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 ```
 
-📦 LocationServicesKotlin
+LocationServicesKotlin
 ┣ 📜 MainActivity.kt
 ┣ 📜 LocationViewModel.kt
 ┣ 🖼️ TampilanAwal.jpg
