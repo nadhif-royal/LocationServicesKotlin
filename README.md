@@ -94,5 +94,4 @@ Dengan penggunaan `suspend function` dan `Dispatchers.IO`, proses geocoding dan 
 **Nadhif Rif’at Rasendriya**  
 _Pengembangan Aplikasi Perangkat Bergerak (PAPB) — Modul 8: Location Services_
 
-```
 
